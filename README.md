@@ -23,10 +23,11 @@ This project is created using C# programming language and object-oriented progra
 
 # Interfaces ⤵️
 
+# Inerface for using files ⤵️
 ![Inerface for using files](https://github.com/Miryoqub006/PhoneBook_2.0/assets/158826997/ef12a320-d964-4c22-b19d-7d07e368afcc)
-
+# Interface for working with datas ⤵️
 ![Interface for working with datas](https://github.com/Miryoqub006/PhoneBook_2.0/assets/158826997/275361ea-c715-46d9-8082-790212efbf81)
-
+3 Interface for the information ⤵️
 ![Interface for the information](https://github.com/Miryoqub006/PhoneBook_2.0/assets/158826997/de38d287-d77e-41bc-84a4-c61f25275d41)
 
 
